@@ -13,11 +13,11 @@ The Game does not require registration. You may optionally link a Google account
 ## 3. Data the Game collects directly
 
 - **Player name**: generated automatically and editable from the menu. It is shown next to your scores on the leaderboard and on event boards. It is the only information you enter that could be linked to you.
-- **Google account (optional)**: if you link a Google account from the menu, we receive its email address through Google Sign-In. The email address is stored only in our authentication service. It is used to contact winners of in-game events and to answer your requests, and it is never shown to other players, never sent to analytics or crash reporting, and never sold. We do not receive your Google password.
+- **Google account (optional)**: if you link a Google account from the menu, we receive its email address through Google Sign-In. The email address is stored only in our authentication service. It is used to contact you about your account and in-game events and to answer your requests, and it is never shown to other players, never sent to analytics or crash reporting, and never sold. We do not receive your Google password.
 - **Approximate country**: derived from the IP address your device connects from when reaching our servers (via our infrastructure provider's geolocation) or, when that is not available, from the region of your device's language settings. This is not precise geolocation and does not reveal your exact location — only a country-level approximation. It is shown as a flag next to your name and decides which events are available in your country.
 - **Installation identifier**: a random identifier created on your device that associates your data across sessions and powers the leaderboard. It cannot identify you personally.
 - **Scores and progress**: records, completed levels, and the current run. Stored locally and, if you link a Google account, also in the cloud (the stars of every level and your records, so they follow you to another device and are deleted with your account); competitive-mode scores are published on the leaderboard, and event scores are published on the board of the event.
-- **Event runs**: when you play an event, we store the score of each run and a record of the moves of your best run (taps and their timing, with no audio, image or text), so we can verify the top places before awarding prizes.
+- **Event runs**: when you play an event, we store the score of each run and a record of the moves of your best run (taps and their timing, with no audio, image or text), so we can verify the results of events.
 
 ## 4. Third parties that process data
 
@@ -30,7 +30,7 @@ The Game does not require registration. You may optionally link a Google account
 
 ## 5. How we use data
 
-To improve the Game and its difficulty, find and fix errors, maintain the leaderboard and rankings, run in-game events, verify their results and contact their winners, analyze usage, and show ads and measure their performance. **We do not sell personal data.**
+To improve the Game and its difficulty, find and fix errors, maintain the leaderboard and rankings, run in-game events and verify their results, analyze usage, and show ads and measure their performance. **We do not sell personal data.**
 
 ## 6. Data we do NOT collect
 
